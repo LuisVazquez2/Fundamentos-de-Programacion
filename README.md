@@ -11,7 +11,7 @@ Alumno: Vazquez Fierros Luis Manuel
 Practicas de la clase:
 
 * Primer Parcial
-  * [Estructuras basica de un programa en c++](./1er%20Parcial/Estructura%20Basica%20de%20un%20programa%20en%20C%2B%2B.cc)
+  * [Estructura basica de un programa en c++](./1er%20Parcial/Estructura%20Basica%20de%20un%20programa%20en%20C%2B%2B.cc)
   * [Ordenar numeros de manera ascendente](/1er%20Parcial/ordenar_numeros.cc)
   * [Ordenar vocales](./1er%20Parcial/ordenar_vocales.cc)
 * Segundo Parcial
