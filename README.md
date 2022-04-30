@@ -15,6 +15,7 @@ Practicas de la clase:
   * [Ordenar numeros de manera ascendente](/1er%20Parcial/ordenar_numeros.cc)
   * [Ordenar vocales](./1er%20Parcial/ordenar_vocales.cc)
 * Segundo Parcial
+  * [Odenar numeros en forma descendente](./2do%20Parcial/ordenar%20numeros%20descendente.cc)
   * [Ordenar vocales y convertir las salidas a mayusculas](./2do%20Parcial/ordenar_vocales_mayus.cc)
   * [Contar letras de mi nombre con Login y Ficheros Binarios](./2do%20Parcial/Contar%20letras%20de%20mi%20nombre%20con%20Login%20y%20ficheros%20binarios/calcular%20numero%20de%20letras%20de%20mi%20nombre.cc)
   * [Convertir numeros arabigos a romanos del (1-30)](./2do%20Parcial/Ronamos%201-30.cc)
