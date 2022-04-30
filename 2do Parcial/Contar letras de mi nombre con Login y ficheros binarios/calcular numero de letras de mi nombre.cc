@@ -1,6 +1,11 @@
 #include <bits/stdc++.h> // Libreria para usar funciones de la libreria estandar de C++
 #include <conio.h>       // Libreria para getch()
 using namespace std;     // Espacio de nombres (Para usar cin y cout)
+/*
+    version: c++20 -&gt; g++ 11.2.0
+    01/04/2022
+    Luis Manuel Vazquez Fierros
+*/
 struct Usuario
 {
     char nombre[100], nick[100], contrasena[100];
