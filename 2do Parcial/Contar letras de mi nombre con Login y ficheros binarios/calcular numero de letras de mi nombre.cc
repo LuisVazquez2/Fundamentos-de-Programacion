@@ -2,7 +2,7 @@
 #include <conio.h>       // Libreria para getch()
 using namespace std;     // Espacio de nombres (Para usar cin y cout)
 /*
-    version: c++20 -&gt; g++ 11.2.0
+    version: c++20 -> g++ 11.2.0
     01/04/2022
     Luis Manuel Vazquez Fierros
 */
