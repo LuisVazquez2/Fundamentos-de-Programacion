@@ -1,6 +1,6 @@
 # Fundamentos de Programacion {#identifier .Titulo}
 
-<img id="img" src ="https://i.ytimg.com/an/shiOfpU-weo/13452109-88d9-401c-90e3-9b4c86cd4583_mq.jpg?v=5912d37a" alt="Image Codes">
+<img style="width: 100%;height: auto;border-radius: 10px;" src ="https://i.ytimg.com/an/shiOfpU-weo/13452109-88d9-401c-90e3-9b4c86cd4583_mq.jpg?v=5912d37a" alt="Image Codes">
 <div class="contenido">
 ESCUELA SUPERIOR DE INGENIERÍA MECÁNICA Y ELÉCTRICA UNIDAD CULHUACÁN
 
@@ -37,8 +37,5 @@ Practicas de la clase:
     text-align: center;
   }
   #img{
-    width: 100%;
-    height: auto;
-    border-radius: 10px;
   }
 </style>
