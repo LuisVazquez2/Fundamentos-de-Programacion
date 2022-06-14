@@ -14,10 +14,15 @@ Practicas de la clase:
   * [Ordenar numeros de manera ascendente](/1er%20Parcial/ordenar_numeros.cc)
   * [Ordenar vocales](./1er%20Parcial/ordenar_vocales.cc)
 * Segundo Parcial
-  * [Odenar numeros en forma descendente](./2do%20Parcial/ordenar%20numeros%20descendente.cc)
+  * [Odenar numeros en forma descendente del (1-10)](./2do%20Parcial/ordenar%20numeros%20descendente.cc)
   * [Ordenar vocales y convertir las salidas a mayusculas](./2do%20Parcial/ordenar_vocales_mayus.cc)
   * [Contar letras de mi nombre con Login y Ficheros Binarios](./2do%20Parcial/Contar%20letras%20de%20mi%20nombre%20con%20Login%20y%20ficheros%20binarios/calcular%20numero%20de%20letras%20de%20mi%20nombre.cc)
   * [Convertir numeros arabigos a romanos del (1-30)](./2do%20Parcial/Ronamos%201-30.cc)
   * [Convertir numeros arabigos a romanos del (1-50)](./2do%20Parcial/romanos%201-50.cc)
   * [Convertir numeros arabigos a romanos del (1-50) y ordenarlos de manera ascendente](./2do%20Parcial/convertir%20a%20romanos%20y%20ordenar%20de%20manera%20ascendente.cc)
 * Tercer Parcial
+  * [Convertir numeros arabigos a romanos del (1-1000)](./3er%20Parcial/romanos%201-1000.cc)
+  * [Cuestionario de Recomendaciones de Covid](./3er%20Parcial/prueba%20covid.cc)
+  * [Saber si tenemos nuestro peso ideal](./3er%20Parcial/Calcular-peso-ideal.cc)
+* Programa Final
+  * [Programa que contiene todos los ejercicios del semestre con un menu para escoger el deseado](./ProgramaFinal/Menu%20con%20todos%20los%20programas.cc)
