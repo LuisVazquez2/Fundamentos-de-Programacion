@@ -1,7 +1,7 @@
-# Fundamentos de Programacion
+# Fundamentos de Programacion {#identifier .Titulo}
 
-<img ALIGN="right" src = "https://i.ytimg.com/an/shiOfpU-weo/13452109-88d9-401c-90e3-9b4c86cd4583_mq.jpg?v=5912d37a" alt="Image Codes" height="400" width="" >
-
+<img id="img" src ="https://i.ytimg.com/an/shiOfpU-weo/13452109-88d9-401c-90e3-9b4c86cd4583_mq.jpg?v=5912d37a" alt="Image Codes">
+<div class="contenido">
 ESCUELA SUPERIOR DE INGENIERÍA MECÁNICA Y ELÉCTRICA UNIDAD CULHUACÁN
 
 Profesor: Veloz Ortiz Luis Efrén
@@ -21,3 +21,24 @@ Practicas de la clase:
   * [Convertir numeros arabigos a romanos del (1-30)](./2do%20Parcial/Ronamos%201-30.cc)
   * [Convertir numeros arabigos a romanos del (1-50)](./2do%20Parcial/romanos%201-50.cc)
   * [Convertir numeros arabigos a romanos del (1-50) y ordenarlos de manera ascendente](./2do%20Parcial/convertir%20a%20romanos%20y%20ordenar%20de%20manera%20ascendente.cc)
+</div>
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300&family=Open+Sans:wght@300&display=swap" rel="stylesheet">
+<style>
+  .contenido {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.2em;
+  }
+  .Titulo{
+    font-size: 30px;
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+  }
+  #img{
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+  }
+</style>
