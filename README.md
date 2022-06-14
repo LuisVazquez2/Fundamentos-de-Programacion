@@ -1,7 +1,7 @@
 # Fundamentos de Programacion {#identifier .Titulo}
 
 <img style="width: 100%;height: auto;border-radius: 10px;" src ="https://i.ytimg.com/an/shiOfpU-weo/13452109-88d9-401c-90e3-9b4c86cd4583_mq.jpg?v=5912d37a" alt="Image Codes">
-<div class="contenido">
+<div style="font-family: 'Montserrat', sans-serif;font-size: 1.2em;">
 ESCUELA SUPERIOR DE INGENIERÍA MECÁNICA Y ELÉCTRICA UNIDAD CULHUACÁN
 
 Profesor: Veloz Ortiz Luis Efrén
@@ -27,9 +27,7 @@ Practicas de la clase:
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300&family=Open+Sans:wght@300&display=swap" rel="stylesheet">
 <style>
-  .contenido {
-    font-family: 'Montserrat', sans-serif;
-    font-size: 1.2em;
+  .contenido 
   }
   .Titulo{
     font-size: 30px;
