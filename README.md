@@ -1,4 +1,4 @@
-# Fundamentos de Programacion {#identifier .Titulo}
+# Fundamentos de Programacion
 
 <img style="width: 100%;height: auto;border-radius: 10px;" src ="https://i.ytimg.com/an/shiOfpU-weo/13452109-88d9-401c-90e3-9b4c86cd4583_mq.jpg?v=5912d37a" alt="Image Codes">
 <div style="font-family: 'Montserrat', sans-serif;font-size: 1.2em;">
@@ -22,18 +22,6 @@ Practicas de la clase:
   * [Convertir numeros arabigos a romanos del (1-50)](./2do%20Parcial/romanos%201-50.cc)
   * [Convertir numeros arabigos a romanos del (1-50) y ordenarlos de manera ascendente](./2do%20Parcial/convertir%20a%20romanos%20y%20ordenar%20de%20manera%20ascendente.cc)
 </div>
-
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300&family=Open+Sans:wght@300&display=swap" rel="stylesheet">
-<style>
-  .contenido 
-  }
-  .Titulo{
-    font-size: 30px;
-    font-family: 'Montserrat', sans-serif;
-    text-align: center;
-  }
-  #img{
-  }
-</style>
