@@ -65,6 +65,7 @@ int main()
             break;
         default:
             cout << "Opcion invalida\n";
+            system("pause");
             break;
         }
     } while (value!=12);
